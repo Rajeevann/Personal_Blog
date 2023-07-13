@@ -4,6 +4,7 @@ import logo from "../../src/assets/img/logo.svg";
 import navIcon1 from "../../src/assets/img/nav-icon1.svg";
 import navIcon2 from "../../src/assets/img/nav-icon2.svg";
 import navIcon3 from "../../src/assets/img/nav-icon3.svg";
+import "../../src/components/navbar.css";
 
 const NavBar = () => {
   const [activeLink, setActiveLink] = useState("home");

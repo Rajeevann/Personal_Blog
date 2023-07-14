@@ -39,7 +39,7 @@ const NavBar = () => {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
               <Nav.Link
-                href="#home"
+                href="home"
                 className={
                   activeLink === "home" ? "active navbar-link" : "navbar-link"
                 }
@@ -48,7 +48,7 @@ const NavBar = () => {
                 Home
               </Nav.Link>
               <Nav.Link
-                href="#skills"
+                href="skills"
                 className={
                   activeLink === "skills" ? "active navbar-link" : "navbar-link"
                 }
@@ -57,7 +57,7 @@ const NavBar = () => {
                 Skills
               </Nav.Link>
               <Nav.Link
-                href="#projects"
+                href="projects"
                 className={
                   activeLink === "projects"
                     ? "active navbar-link"

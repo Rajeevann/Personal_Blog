@@ -9,7 +9,7 @@
 ## Tech 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,node,express" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
   </a>
 </p>
 

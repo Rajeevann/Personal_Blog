@@ -15,6 +15,7 @@
 </p>
 
 <h2 align="center">The Dependencies</h2>  
+
 ```
 {
   "name": "personal_blog",
@@ -40,3 +41,6 @@
     "web-vitals": "^2.1.4"
   }
   ```
+<h2 align="center">Running the Project </h2>  
+- Install Node dependencies 
+- npm start to run 

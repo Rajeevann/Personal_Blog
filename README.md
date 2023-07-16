@@ -1,9 +1,9 @@
 <h1 align="center">Getting Started with Profolio Website</h1> 
 
-
-
 <p align="center">
+  
 ![ezgif com-video-to-gif](https://github.com/Rajeevann/Personal_Blog/assets/130212215/3bb6c67c-fb61-49a7-ab27-d64dd25686fb)
+
 </p>
 
 ## Tech 

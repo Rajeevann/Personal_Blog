@@ -6,7 +6,7 @@
 
 </div>
 
-<h2 align="center">Getting Started with Profolio Website</h2>  
+<h2 align="center">Technologies Used 🌎 </h2>  
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -42,5 +42,5 @@
   }
   ```
 <h2 align="center">Running the Project </h2>  
- - Install Node dependencies
- - npm start to run 
+ * Install Node dependencies
+ * npm start to run 

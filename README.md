@@ -42,5 +42,6 @@
   }
   ```
 <h2 align="center">Running the Project </h2>  
+
  * Install Node dependencies
  * npm start to run 

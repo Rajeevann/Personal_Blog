@@ -1,4 +1,4 @@
-<h1 align="center">Getting Started with Profolio Website</h1> 
+<h1 align="center">Getting Started with Portfolio Website 🥳 </h1> 
 
 <div align="center">
   
@@ -42,5 +42,5 @@
   }
   ```
 <h2 align="center">Running the Project </h2>  
-- Install Node dependencies 
-- npm start to run 
+ - Install Node dependencies
+ - npm start to run 
